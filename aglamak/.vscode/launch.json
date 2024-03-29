@@ -8,8 +8,7 @@
             "type": "java",
             "name": "App",
             "request": "launch",
-            "mainClass": "App",
-            "projectName": "aglamak_a39768a4"
+            "mainClass": "App"
         },
         {
             "type": "java",
