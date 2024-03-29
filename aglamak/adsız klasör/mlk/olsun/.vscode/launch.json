@@ -9,7 +9,7 @@
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "vmArgs": "--module-path javafx-sdk-22/lib --add-modules javafx.control,javafx.fxml"
+            "vmArgs": "--module-path javafx-sdk-22/lib --add-modules javafx.control,javafx.fxml",
         }
     ]
 }
